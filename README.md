@@ -6,7 +6,7 @@
 
 
 ## abstract
-Context: With the waning of Moore's Law, the software industry is placing increasing importance on finding alternative solutions for continuous performance enhancement. The significance and research results of software performance optimization have been on the rise in recent years, especially with the advancement propelled by \textbf{L}arge \textbf{L}anguage \textbf{M}odel\textbf{s} (LLMs). However, traditional strategies for rectifying performance flaws have shown significant limitations at the competitive code efficiency optimization level, and research on this topic is surprisingly scarce.
+Context: With the waning of Moore's Law, the software industry is placing increasing importance on finding alternative solutions for continuous performance enhancement. The significance and research results of software performance optimization have been on the rise in recent years, especially with the advancement propelled by LLMs. However, traditional strategies for rectifying performance flaws have shown significant limitations at the competitive code efficiency optimization level, and research on this topic is surprisingly scarce.
 
 Objective: This study aims to address the research gap in this domain, offering practical solutions to the various challenges encountered. Specifically, we have overcome the constraints of traditional performance error rectification strategies and developed a Language Model (LM) tailored for the competitive code efficiency optimization realm.
 
