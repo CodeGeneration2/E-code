@@ -125,9 +125,6 @@ Set Command_line_parameters.task = 1 to train the No-expert-E-code model.
 
 
 
-## Model parameters
-All model parameters are [here](https://drive.google.com/drive/folders/18tg9mTBZ3E6bmpnoelMbYqMo_o3B76bX?usp=sharing).
-
 
 
 
