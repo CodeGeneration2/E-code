@@ -72,10 +72,6 @@ on such code.
 ### CodeExecTimeDB
 CodeExecTimeDB are [here](https://drive.google.com/file/d/1-JoO4ziUFRmntMkPzj_nxwTzuPxRecyT/view?usp=sharing).
 
-### ExecTimePredictor
-CodeExecTimeDB are [here](https://drive.google.com/file/d/1AY7pttfd4-BVC0ZFwm1bvgKTpI54itED/view?usp=sharing).
-
-
 
 ## Fine-tuning ExecTimePredictor
 
